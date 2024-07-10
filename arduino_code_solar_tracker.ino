@@ -1,5 +1,4 @@
-/* Solar Tracking System
-   Home Page
+/* Solar Tracker
 */
 
 #include <Servo.h>  // Include the servo motor library
